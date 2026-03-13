@@ -13,7 +13,7 @@ Users can **draw a digit on a canvas or upload an image**, and the AI predicts t
 🔗 **Try the App:**  
 https://your-app-url.streamlit.app
 
-*(Replace the link above with your deployed app URL.)*
+
 
 ---
 
